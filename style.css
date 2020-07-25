@@ -62,8 +62,8 @@ section {
   margin-bottom: 1.3em;
   grid-gap: 20px;
   grid-template-areas:
-    'leadstory leadstory ofinterest'
-    'leadstory leadstory ofinterest'
+    'ofinterest-a leadstory leadstory'
+    'ofinterest-b leadstory leadstory'
 }
 
 /* Lead Story */
